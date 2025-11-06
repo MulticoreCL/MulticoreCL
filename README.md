@@ -3,3 +3,4 @@
 - 🌱 Actualmente estamos aplicando Inteligencia Artificial para los Negocios
 - 💞️ Estamos interesados en colaborar
 - 📫 Nuestra web: https://multicore.cl/
+- Somos Multicore, una agencia Chilena proveedora de servicios de diseño web, marketing online y servicios informáticos. Contamos con más de 10 años de experiencia. Nos mantenemos al día con las últimas tendencias y tecnologías web para ofrecerte soluciones innovadoras y efectivas. Entendemos que cada negocio es único. Trabajamos en estrecha colaboración contigo para diseñar una estrategia digital que se alinee con tus objetivos y necesidades específicas.
