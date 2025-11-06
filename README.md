@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MulticoreCL
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning artificial intelligence applications.
-- 💞️ I’m looking to collaborate on same topics...
-- 📫 How to reach me: www.multicore.cl/contact
-- ⚡ Fun fact: Ants are very strong relative to their size.
+- 👋 Hola, somos Multicore Chile @MulticoreCL
+- 👀 Estamos full enfocados en Marketing Online y Tecnologías
+- 🌱 Actualmente estamos aplicando Inteligencia Artificial para los Negocios
+- 💞️ Estamos interesados en colaborar
+- 📫 Nuestra web: https://multicore.cl/
